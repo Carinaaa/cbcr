@@ -1,3 +1,0 @@
-I:/Git_presetantions/code_run/cbcr/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-I:/Git_presetantions/code_run/cbcr/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
-I:/Git_presetantions/code_run/cbcr/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir
