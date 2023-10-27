@@ -10,7 +10,7 @@ TEST(HelloTest, BasicAssertions) {
 
 TEST(HelloTest, BasicAssertionsTwo) {
   // Expect two strings not to be equal.
-  // EXPECT_FALSE(true);
+    EXPECT_FALSE(true);
 }
 
 TEST(HelloTest, BasicAssertionsThree) {
