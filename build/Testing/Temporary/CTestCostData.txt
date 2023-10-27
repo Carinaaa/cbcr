@@ -1,4 +1,0 @@
-HelloTest.BasicAssertions 1 0.0109991
-HelloTest.BasicAssertionsTwo 1 0.0104213
-HelloTest.BasicAssertionsThree 1 0.010947
----
