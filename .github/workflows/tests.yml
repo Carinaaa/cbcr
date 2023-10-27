@@ -21,7 +21,7 @@ jobs:
 
     - name: Run MSBuild
       id: run_msbuild
-      working-directory: ${{env.GITHUB_WORKSPACE}}
+      working-directory: ''
       run: msbuild .\build\cbcr.sln
 
 # - name: Setup VSTest and add to PATH
