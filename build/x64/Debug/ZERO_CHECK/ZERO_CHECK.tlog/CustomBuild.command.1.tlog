@@ -1,0 +1,10 @@
+^I:\GIT_PRESETANTIONS\CODE_RUN\CBCR\BUILD\CMAKEFILES\679BC9002540764FB6557B8147E0C70E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SI:/Git_presetantions/code_run/cbcr -BI:/Git_presetantions/code_run/cbcr/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file I:/Git_presetantions/code_run/cbcr/build/cbcr.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

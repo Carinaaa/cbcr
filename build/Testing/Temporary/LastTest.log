@@ -1,0 +1,84 @@
+Start testing: Oct 27 21:45 GTB Daylight Time
+----------------------------------------------------------
+1/3 Testing: HelloTest.BasicAssertions
+1/3 Test: HelloTest.BasicAssertions
+Command: "I:/Git_presetantions/code_run/cbcr/build/Debug/hello_test.exe" "--gtest_filter=HelloTest.BasicAssertions" "--gtest_also_run_disabled_tests"
+Directory: I:/Git_presetantions/code_run/cbcr/build
+"HelloTest.BasicAssertions" start time: Oct 27 21:45 GTB Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from I:\Git_presetantions\code_run\cbcr\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = HelloTest.BasicAssertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HelloTest
+[ RUN      ] HelloTest.BasicAssertions
+[       OK ] HelloTest.BasicAssertions (0 ms)
+[----------] 1 test from HelloTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HelloTest.BasicAssertions" end time: Oct 27 21:45 GTB Daylight Time
+"HelloTest.BasicAssertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: HelloTest.BasicAssertionsTwo
+2/3 Test: HelloTest.BasicAssertionsTwo
+Command: "I:/Git_presetantions/code_run/cbcr/build/Debug/hello_test.exe" "--gtest_filter=HelloTest.BasicAssertionsTwo" "--gtest_also_run_disabled_tests"
+Directory: I:/Git_presetantions/code_run/cbcr/build
+"HelloTest.BasicAssertionsTwo" start time: Oct 27 21:45 GTB Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from I:\Git_presetantions\code_run\cbcr\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = HelloTest.BasicAssertionsTwo
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HelloTest
+[ RUN      ] HelloTest.BasicAssertionsTwo
+[       OK ] HelloTest.BasicAssertionsTwo (0 ms)
+[----------] 1 test from HelloTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HelloTest.BasicAssertionsTwo" end time: Oct 27 21:45 GTB Daylight Time
+"HelloTest.BasicAssertionsTwo" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: HelloTest.BasicAssertionsThree
+3/3 Test: HelloTest.BasicAssertionsThree
+Command: "I:/Git_presetantions/code_run/cbcr/build/Debug/hello_test.exe" "--gtest_filter=HelloTest.BasicAssertionsThree" "--gtest_also_run_disabled_tests"
+Directory: I:/Git_presetantions/code_run/cbcr/build
+"HelloTest.BasicAssertionsThree" start time: Oct 27 21:45 GTB Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from I:\Git_presetantions\code_run\cbcr\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = HelloTest.BasicAssertionsThree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HelloTest
+[ RUN      ] HelloTest.BasicAssertionsThree
+[       OK ] HelloTest.BasicAssertionsThree (0 ms)
+[----------] 1 test from HelloTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HelloTest.BasicAssertionsThree" end time: Oct 27 21:45 GTB Daylight Time
+"HelloTest.BasicAssertionsThree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 27 21:45 GTB Daylight Time
