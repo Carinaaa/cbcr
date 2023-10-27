@@ -15,10 +15,5 @@ TEST(HelloTest, BasicAssertionsTwo) {
 
 TEST(HelloTest, BasicAssertionsThree) {
   // Expect two strings not to be equal.
-   EXPECT_TRUE(true);
-}
-
-TEST(HelloTest, BasicAssertionsThreefor) {
-  // Expect two strings not to be equal.
-   EXPECT_TRUE(true);
+   EXPECT_TRUE(false);
 }
